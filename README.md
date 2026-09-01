@@ -19,6 +19,17 @@ The chatbot collects:
 Occasion → Weather → Style → Colour → Existing Clothes
 It then uses these inputs to generate a personalized outfit recommendation.
 
+## 📸 Screenshots
+
+### Chatbot Flow
+![Chatbot Flow](chatbot-flow.jpg)
+
+### User Interaction
+![User Interaction](User-interaction.jpg)
+
+### Outfit Recommendation
+![Outfit Recommendation](chatbot.jpg)
+
 
 🛠️ Tech Stack
 Botpress — chatbot development platform
