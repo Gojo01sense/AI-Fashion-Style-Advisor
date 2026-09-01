@@ -36,6 +36,10 @@ Botpress — chatbot development platform
 Generative AI — recommendation generation
 NLP / Conversational AI — understanding and handling user interactions
 
+## 🔗 Live Chatbot
+
+[Open the AI Fashion Style Advisor](https://cdn.botpress.cloud/webchat/v3.7/shareable.html?configUrl=https://files.bpcontent.cloud/2026/08/26/06/20260826062559-EP8FJT4L.json)
+
 
 🚀 Future Improvements
 Image-based wardrobe analysis
